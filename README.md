@@ -9,8 +9,10 @@ The tool processes raw DNA fiber data, computes autocorrelation profiles, and ap
 
 - MATLAB (version 2020b or later recommended)
 - Required MATLAB toolboxes:
+  - Global Optimization Toolbox
+  - System Identification Toolbox
   - Statistics and Machine Learning Toolbox
-  - Image Processing Toolbox
+
 
 ### Steps
 
