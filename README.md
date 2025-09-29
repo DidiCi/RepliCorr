@@ -1,5 +1,5 @@
 ## RepliCorr
-**RepliCorr** is a MATLAB-based analysis tool designed to investigate DNA replication dynamics by examining the spatial correlation of replication patterns along DNA fibers. This methodology, introduced in the study by Ciardo et al. (2025) ([academic.oup.com](https://academic.oup.com/nar/article/53/3/gkaf007/7990345?login=false)), enables the assessment of replication fork speeds and initiation rates through autocorrelation profiling.
+**RepliCorr** is a MATLAB-based analysis tool designed to investigate DNA replication dynamics by examining the spatial correlation of replication patterns along DNA fibers. This methodology, introduced in the study by [Ciardo et al. (2025)](https://academic.oup.com/nar/article/53/3/gkaf007/7990345?login=false), enables the assessment of replication fork speeds and initiation rates through autocorrelation profiling.
 The tool processes raw DNA fiber data, computes autocorrelation profiles, and applies statistical models to interpret replication dynamics.
 
 
